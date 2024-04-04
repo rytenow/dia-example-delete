@@ -1,0 +1,79 @@
+mrluigibean vr
+
+Why strava not considr near real envir end of RV spectrm
+ - has some extent of world knowledge
+
+Which device sparked current(21st cent)rise of VR
+ - Oculus Rift DK1
+
+3D models extrm high qual. What Dimension of RV continm
+ - Reproduction Fidel
+
+Stereo optics provide perception of depth thru LCD. What dimen of RV contim
+ - Extent of Presence metaphor
+
+Believe actually 1000ft abv ground. What dimen RV contim
+ - Coherence
+
+Which Following describes immersion from systems perspective
+ - Wide FOV
+ - 8K res display
+ - 6DOF inside out tracking
+
+Which following describes immersn from experimental perspective
+ - High spatial presence
+ - High place illusion
+ - Lower cyber sickness
+
+What possible valid questionares use in user stories for qns abv ^^
+ - Flow State Scale (FSS)
+
+
+Not true :
+ - BabJS is open standard for web based XR app
+ - WebXR is open source 3D eng for web based XR app
+ - WebXR is only meant for building destop 3d web app
+
+True:
+ - BabJS can be used to build WebXR AR apps
+
+
+What changing focal length of lenses in HMD effect?
+ - Size of virtual img
+ - Vertical fov
+ - Horiz FOv
+
+What does using same projection matrix for both display for both eyes in VR HMD have
+ Wrong ANS :
+   - Uniform perception
+   - enlarge FOV 
+   - Reduced head tracking accuracy/cyber sickness
+   - Reduciton in visual abnormalis like ghosting/flickering
+
+
+What is function of debugLayer in Scene class of BabJS
+ - Provides visual UI overlays to inspect/manipulate scene live
+
+
+What is API class in BabJS that allow easy use 360 img skybox
+ - PhotoDome
+
+In VR Biorecctor Training System, is view control passive or active interaction mechanic
+ - passive
+
+In VR Biorecctor Training System, hand gestures passive or active
+ - active
+
+Vr game InMind VR, what interaction mechanics implemented?
+ - viewpoint control
+
+is viewpoint control passive or active
+ - both
+
+Vr game InMind VR, what form of interaction authen is eye gaze point and click mechanic?
+ - artifical magical interation
+ - artifical augmented natural interaction
+
+Users tend to route hands behind virtual sawblade. why
+ - High embodiment via realistic hand representation and precise tracking
+
